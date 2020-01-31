@@ -51,4 +51,4 @@ Input Password
     Wait And Input  ${password_field}  ${text}
 
 Home Page Should Be Open
-    Element Text Should Be  ${home_page_header}  Home
+    Element Text Should Be  ${home_page_header}  Home Page
